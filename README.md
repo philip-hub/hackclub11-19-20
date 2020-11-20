@@ -1,5 +1,5 @@
 # hackclub11-19-20
-This is the code Blake made in our Memphis Hackclub Meeting on 11/19/20. 
+This is the code Blake ( https://github.com/BlakeFreeman-py ) made in our Memphis Hackclub Meeting on 11/19/20. 
 
 Navigate to the index.html file above to view the HTML code
 
